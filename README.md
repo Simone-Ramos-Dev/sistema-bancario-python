@@ -1,4 +1,5 @@
-Sistema Bancário Simples
+# **Sistema Bancário Simples**
+
 Este é um projeto simples de sistema bancário em Python, que simula as operações básicas de saque, depósito e consulta de extrato.
 
 Funcionalidades
@@ -11,7 +12,9 @@ Extrato: Exibe o histórico de todas as transações (depósitos e saques), most
 Requisitos
 Para rodar este projeto, você precisa ter o Python 3 instalado na sua máquina.
 
-Estrutura do Código
+
+## **Estrutura do Código**
+
 O projeto é composto por um único arquivo (nome_do_seu_arquivo.py) que contém as seguintes funções:
 
 depositar(saldo, valor, extrato): Lida com a operação de depósito.
